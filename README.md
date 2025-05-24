@@ -1,8 +1,8 @@
-## 👋 Hello, world! Eu sou Kiam Mota — Explorador do Código e da Máquina
+## 👋 yooo! I'm Kiam M. Ferraz. 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiamMota)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiammota)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KiamMota)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiamMota)   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiammota)
 
 ---
 
@@ -11,6 +11,8 @@
 <div align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="Makefile" src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=make&logoColor=white" />
 </div>
 
@@ -18,10 +20,11 @@
 
 ### ⚡ Sobre mim
 
-- Autodidata, desbravador do kernel Linux e amante da programação direta ao hardware.  
-- Já compilei kernels, criei apps em SDL, e mergulho em sistemas embarcados.  
-- Minha praia é o código limpo, rápido, eficiente, sem frescura.  
-- Aqui, não tem espaço para overengineering.  
+- Amante de padrões de design procedurais.
+- Autodidata, desbravador de embarcado e apaixonado por programação direta ao hardware.  
+- Foco em Tecnologias low-level: C, C++, Rust.
+- Usando C#.
+- Código limpo, rápido, eficiente, sem frescura nem overengineering.  
 
 ---
 
