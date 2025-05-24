@@ -11,12 +11,7 @@
 <div align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-6E4C1E?style=for-the-badge&logo=assembly&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="SDL" src="https://img.shields.io/badge/SDL-2EA2E2?style=for-the-badge&logo=sdl&logoColor=white" />
-  <img alt="Buildroot" src="https://img.shields.io/badge/Buildroot-003366?style=for-the-badge&logo=gnu&logoColor=white" />
   <img alt="Makefile" src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=make&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
