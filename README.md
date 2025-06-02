@@ -5,8 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiammota)
 
 ![Kiam's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiamMota&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=radical)
 
 ## Tecnologias que aprecio:
 
