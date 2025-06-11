@@ -7,7 +7,6 @@
 ![Kiam's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiamMota&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact)
   
-
 ## Tecnologias que aprecio:
 
 <div align="center">
@@ -26,5 +25,4 @@
 - Usando C#.
 - Código limpo, rápido, eficiente, sem frescura nem overengineering.  
 
-
-#### Vamos construir o futuro, uma linha de código e um byte por vez.
+#### Um byte de cada vez.
