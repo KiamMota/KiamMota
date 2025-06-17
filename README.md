@@ -1,4 +1,4 @@
-### 👋 yooo! I'm Kiam M. Ferraz. 
+### yooo! I'm Kiam M. Ferraz. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiamMota)   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com) 
@@ -20,9 +20,8 @@
 ### ⚡ Sobre mim
 
 - Amante de padrões de design procedurais.
-- Autodidata, desbravador de embarcado e apaixonado por programação direta ao hardware.  
-- Foco em Tecnologias low-level: C, C++, Rust.
-- Usando C#.
+- Autodidata, desbravador de embarcado e entusiasta por programação direta ao hardware.  
+- Foco em Tecnologias low-level e tecnologias modernas.
 - Código limpo, rápido, eficiente, sem frescura nem overengineering.  
 
 #### Um byte de cada vez.
