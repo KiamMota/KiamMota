@@ -7,21 +7,26 @@
 
 ![Kiam's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiamMota&show_icons=true)  
 
-## Tecnologias que aprecio:
+## Tecnologias que uso:
 
 <div align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="Makefile" src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=make&logoColor=white" />
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=asp-dot-net&logoColor=white" />
 </div>
 
 ### ⚡ Sobre mim
+Programação Orientada a Objetos (POO) e programação procedural são áreas que conheço profundamente.
 
-- Amante de padrões de design procedurais.
-- Autodidata, desbravador de embarcado e entusiasta por programação direta ao hardware.  
-- Foco em Tecnologias low-level e tecnologias modernas.
-- Código limpo, rápido, eficiente, sem frescura nem overengineering.  
+Grande conhecimento em Backend .NET e C#, com bastante experiência em ASP.NET.
+
+Apaixonado por tecnologias low-level, mas sempre atento às tecnologias modernas.
+
+Foco em código limpo, rápido, eficiente e sem overengineering.
+
 
 #### Um byte de cada vez.
