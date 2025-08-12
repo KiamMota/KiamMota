@@ -6,7 +6,7 @@
 ---
 
 ![Kiam's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiamMota&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=pie)](https://github.com/KiamMota)
 
 ## Tecnologias que uso:
 
