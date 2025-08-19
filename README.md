@@ -1,4 +1,4 @@
-### yooo! I'm Kiam M. Ferraz. 🇧🇷
+### Kiam Mota Couto Ferraz.
 
 <div align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
