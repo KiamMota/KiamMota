@@ -1,8 +1,10 @@
 ### Kiam Mota Couto Ferraz.
 
+sólida experiência em linguagens de programação com ênfase no desenvolvimento de aplicações backend utilizando ASP.NET. Sou entusiasta de tecnologias de baixo nível, sem deixar de acompanhar as inovações mais modernas do ecossistema de software.
+
 <div align="center">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=asp-dot-net&logoColor=white" />
@@ -17,7 +19,7 @@
 
 ### ⚡ Sobre mim
 Programação Orientada a Objetos (POO) e programação procedural são áreas que conheço profundamente.
-
+a
 Grande conhecimento em Backend .NET e C#, com bastante experiência em ASP.NET.
 
 Apaixonado por tecnologias low-level, mas sempre atento às tecnologias modernas.
