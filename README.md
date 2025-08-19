@@ -1,6 +1,6 @@
 ### Kiam Mota Couto Ferraz.
 
-sólida experiência em linguagens de programação com ênfase no desenvolvimento de aplicações backend utilizando ASP.NET. Sou entusiasta de tecnologias de baixo nível, sem deixar de acompanhar as inovações mais modernas do ecossistema de software.
+I have solid experience in programming languages, with an emphasis on developing backend applications using ASP.NET. I'm passionate about low-level technologies and stay up-to-date with the latest innovations in the software ecosystem.
 
 <div align="center">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -18,13 +18,13 @@ sólida experiência em linguagens de programação com ênfase no desenvolvimen
 
 
 ### ⚡ Sobre mim
-Programação Orientada a Objetos (POO) e programação procedural são áreas que conheço profundamente.
-a
-Grande conhecimento em Backend .NET e C#, com bastante experiência em ASP.NET.
+Domínio aprofundado em Programação Orientada a Objetos (POO) e programação procedural.
 
-Apaixonado por tecnologias low-level, mas sempre atento às tecnologias modernas.
+Specialist in backend development with C# and .NET.
 
-Foco em código limpo, rápido, eficiente e sem overengineering.
+Constant interest in high-performance, low-end technologies.
+
+Committed to good development practices: clean, efficient code, focused on performance and free from overengineering.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiammota)
