@@ -21,6 +21,7 @@
 ## 🚀 Projetos
 
 - [![Calango](https://img.shields.io/badge/Calango-C++20-blue?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/KiamMota/calango) Uma biblioteca C++ cross plataforma para captura de eventos.
+
 Iniciei em programação aos 11 anos com Java e desenvolvimento de jogos no Game Maker.
 
 Aos 15 anos, migrei para C++ motivado pela criação de ferramentas próprias, priorizando projetos de automação.
