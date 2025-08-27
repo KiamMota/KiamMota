@@ -15,10 +15,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=dracula" />
 </p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com)
+
+
+
+Perfil proativo e orientado a aprendizado contínuo, melhoria constante e automação de processos.
+
+### Contato profissional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiam-mota-3a1638356/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiammota)
 
-Programando desde os 11 anos.
-Perfil proativo e orientado a aprendizado contínuo, melhoria constante e automação de processos.
 
 #### Um byte de cada vez.
