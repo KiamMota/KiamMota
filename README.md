@@ -1,5 +1,7 @@
 # Kiam Mota Couto Ferraz.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=800&size=27&pause=1000&width=435&lines=Dev+Backend+de+Sistemas.)](https://git.io/typing-svg)
+
 <div align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
