@@ -1,5 +1,6 @@
 # Kiam Mota Couto Ferraz.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=800&size=26&pause=1000&width=435&lines=Dev.+Backend+de+Sistemas.)](https://git.io/typing-svg)
+
+
 ### Linguagens:
 
 <div align="center">
@@ -13,7 +14,8 @@
 
 ![Kiam's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiamMota&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=donut-vertical&theme=dracula)](https://github.com/KiamMota)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=dracula)
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiammota)
