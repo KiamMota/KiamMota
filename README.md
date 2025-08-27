@@ -16,13 +16,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=dracula)
 
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiammota)
-
-## 🚀 Projetos
-
-- [![Calango](https://img.shields.io/badge/Calango-C++20-blue?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/KiamMota/calango) Uma biblioteca C++ cross plataforma para captura de eventos.
 
 Iniciei em programação aos 11 anos com Java e desenvolvimento de jogos no Game Maker.
 
