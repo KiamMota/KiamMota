@@ -1,16 +1,16 @@
 # Kiam Mota Couto Ferraz.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=800&size=27&pause=1000&width=435&lines=Dev+Backend+de+Sistemas.)](https://git.io/typing-svg)
-
+## Dev Backend de Sistemas.
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiamMota&show_icons=true&theme=dracula" />
+<p align="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=dracula" />
   
 </p>
 
 ---
+
+Perfil proativo e orientado a aprendizado contínuo, melhoria constante e automação de processos.
 
 ### Tecnologias que utilizo: 
 
@@ -21,7 +21,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-Perfil proativo e orientado a aprendizado contínuo, melhoria constante e automação de processos.
 
 ### Contato profissional
 
