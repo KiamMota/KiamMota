@@ -2,12 +2,9 @@
 
 ## Dev Backend de Sistemas.
 
----
 <p align="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=dracula" />
-  
 </p>
-
 ---
 
 Perfil proativo e orientado a aprendizado contínuo, melhoria constante e automação de processos.
