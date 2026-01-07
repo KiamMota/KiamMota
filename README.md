@@ -1,24 +1,16 @@
-# Kiam Mota Couto Ferraz.
+# Kiam Mota Couto Ferraz
+_Backend Software Developer_
 
-## Dev Backend de Sistemas.
+Desenvolvedor backend com atuação em sistemas e APIs, trabalhando com modelagem e geração de dados, lógica de domínio e fluxos de negócio complexos. Experiência prática no desenho e implementação de serviços backend, com atenção a arquitetura, eficiência e previsibilidade do código.
 
-Perfil proativo e orientado a aprendizado contínuo, melhoria constante e automação de processos.
+Atua no desenvolvimento de APIs, estruturação de domínios, automação de processos e integração entre sistemas. Boa compreensão de redes e protocolos, incluindo TCP, UDP e HTTP.
 
-### Tecnologias que utilizo: 
+Tecnologias
+C, C++, C#, Python
 
-<div>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+Contato
+LinkedIn: https://www.linkedin.com/in/kiam-mota-3a1638356/
 
+Email: somentekiam@gmail.com
 
-### Contato profissional
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiam-mota-3a1638356/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiammota)
-
-
-#### Um byte de cada vez.
+Um byte de cada vez.
