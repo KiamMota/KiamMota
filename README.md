@@ -1,32 +1,78 @@
-# Kiam Mota Couto Ferraz
-
-**Backend Software Developer**
-
-Desenvolvedor backend com foco em sistemas, APIs e domínios de negócio complexos.
-Trabalho com arquitetura de serviços, modelagem de dados, automação de processos e integração entre sistemas — priorizando código eficiente, previsível e bem estruturado.
-
-Tenho boa compreensão de redes e protocolos (TCP, UDP, HTTP), sistemas de baixo nível e Linux.
+# 👋 Hi there, I'm Kiam!
 
 ---
 
-## Stack
+<div align="center">
 
-`C` `C++` `C#` `Python`
+### 🔩 Backend Software Developer | Systems Engineer | API Architect
+
+<p align="center">
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/libuv-222222?style=flat&logo=gnu&logoColor=white">
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Boost-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+Backend developer focused on systems, APIs, and complex business domains.
+I work with service architecture, data modeling, process automation, and system integration — always prioritizing efficient, predictable, and well-structured code.
+
+I have a solid understanding of networks and protocols (TCP, UDP, HTTP), low-level systems, and Linux — and I enjoy working close to the infrastructure layer.
+
+Today, I'm looking for challenging problems where deep technical thinking meets real business impact.
 
 ---
 
-## O que faço
+### ⚡ Quick Facts
+- 📍 Location: Brazil
+- 🗣️ Languages: English & Brazilian Portuguese (Native)
+- 🤝 Available for remote opportunities
 
-- Design e implementação de APIs e serviços backend
-- Modelagem de domínio e estruturação de lógica de negócio
-- Automação de processos e integração entre sistemas
-- Trabalho próximo à camada de infraestrutura: redes, protocolos, sistemas POSIX
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/libuv-222222?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
 
 ---
 
-## Contato
+## 📈 What I Do
 
-- **LinkedIn:** [kiam-mota](https://www.linkedin.com/in/kiam-mota-3a1638356/)
-- **Email:** somentekiam@gmail.com
+- **API & Service Design** — Building robust, well-documented, and maintainable backend services
+- **Domain Modeling** — Structuring business logic that reflects real-world complexity accurately
+- **Process Automation** — Integrating and automating workflows across systems and platforms
+- **Infrastructure-Layer Work** — Networks, protocols, and POSIX systems close to the metal
 
 ---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiamMota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+
+## 📫 Let's Connect
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KiamMota)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiam-mota-3a1638356/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somentekiam@gmail.com)
+
+---
+
+<div align="center">
+✨ Let's build robust systems, one abstraction at a time! ✨
+</div>
