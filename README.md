@@ -1,35 +1,40 @@
 # Kiam Mota
 
-Backend developer focused on APIs, distributed systems, and business domain modeling.
+Desenvolvedor Backend com foco em engenharia de software, programação de sistemas e arquitetura de APIs. Atuo no desenvolvimento de aplicações escaláveis, integrações entre serviços e modelagem de domínios de negócio, com experiência em ambientes Linux e tecnologias de baixo nível.
 
-Currently working with ASP.NET, Go, and Linux-based environments, building integrations, internal services, and automation tools.
+## Tecnologias
 
-## Stack
+* Rust
+* Go
+* C / C#
+* ASP.NET Core
+* PostgreSQL
+* Linux
+* TCP/IP e HTTP
 
-- C / C++
-- C#
-- ASP.NET Core
-- Go
-- PostgreSQL
-- Linux
-- TCP/IP & HTTP
-- libuv
+## Áreas de Atuação
 
-## Interests
+* Desenvolvimento de APIs e serviços backend com ASP.NET Core
+* Ferramentas e aplicações de baixo nível utilizando Rust e C
+* Integrações, automação de processos e comunicação distribuída entre serviços com Go
+* Modelagem de domínio e desenho de arquiteturas orientadas a serviços
+* Desenvolvimento de soluções com foco em desempenho, confiabilidade e manutenibilidade
 
-- Backend architecture
-- Networking and low-level systems
-- Process automation
-- Performance-oriented software
+## Interesses Técnicos
 
-## Current Goals
+* Programação de sistemas
+* Redes e protocolos de comunicação
+* Arquitetura de software e design de APIs
+* Sistemas distribuídos
+* Otimização de desempenho e eficiência de recursos
 
-- Improve distributed systems knowledge
-- Contribute to open-source projects
-- Work on scalable backend applications
+## Objetivos Profissionais
 
-## Links
+* Aprofundar conhecimentos em sistemas distribuídos e arquitetura de larga escala
+* Contribuir para projetos open source nos ecossistemas Rust, Go e C
+* Projetar e construir sistemas backend robustos, escaláveis e sustentáveis a longo prazo
 
-- GitHub: ...
-- LinkedIn: ...
-- Email: ...
+## Contato
+
+* LinkedIn: [...](https://www.linkedin.com/in/kiam-mota-3a1638356/)
+* E-mail: [...](somentekiam@gmail.com)
