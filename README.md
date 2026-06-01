@@ -2,6 +2,9 @@
 
 Desenvolvedor Backend com foco em engenharia de software, programação de sistemas e arquitetura de APIs. Atuo no desenvolvimento de aplicações escaláveis, integrações entre serviços e modelagem de domínios de negócio, com experiência em ambientes Linux e tecnologias de baixo nível.
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KiamMota&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=tokyonight)
+
 ## Tecnologias
 
 * Rust
