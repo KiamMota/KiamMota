@@ -15,10 +15,6 @@
 
 <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-<img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
 </div>
 Desenvolvedor Backend com foco em engenharia de software, programação de sistemas e arquitetura de APIs. Atuo no desenvolvimento de aplicações escaláveis, integrações entre serviços e modelagem de domínios de negócio, com experiência em ambientes Linux e tecnologias de baixo nível.
 
