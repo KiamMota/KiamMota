@@ -18,51 +18,61 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=KiamMota&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=KiamMota&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
 <br>
 
 <p align="center">
-  I build backend systems, open-source software, and tools that solve real problems.
+  I build backend systems, open-source software, and developer tools.
 </p>
 
 ## Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=go,c,cpp,cs,linux,postgres,git,cmake" alt="Stack">
 </p>
 
-<p>
-  <strong>C</strong> for operating systems and low-level software<br>
-  <strong>C++</strong> when the project calls for it<br>
-  <strong>Go</strong> for scripting and tooling<br>
-  <strong>C#</strong> for legacy projects
+<p align="center">
+  <code>C</code> · <code>C++</code> · <code>Go</code> · <code>C#</code> ·
+  <code>Linux</code> · <code>PostgreSQL</code> · <code>CMake</code> · <code>Git</code>
 </p>
 
 ## About
 
 I'm a backend developer interested in systems, infrastructure, and software architecture.
 
-I enjoy working close to the operating system, understanding how things work underneath the abstractions, and building software that is simple, efficient, and maintainable.
+I use C for low-level and operating-system oriented projects, C++ when the project requires it, Go for scripting and tooling, and C# for legacy systems.
 
-I'm also interested in open source and enjoy creating software that other developers can use, modify, and build upon.
+I'm especially interested in open source and building software that other developers can actually use and extend.
 
 ## GitHub
 
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=KiamMota&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="170"
+    alt="GitHub Stats"
+  />
 
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=KiamMota&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
 
-<br>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KiamMota&theme=github-compact&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="GitHub 3D Contributions"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <sub>Backend · Systems · Open Source</sub>
