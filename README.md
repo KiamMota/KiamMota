@@ -1,59 +1,83 @@
-# Kiam Mota
-<div style="display: inline_block"><br/>
+# Olá, eu sou o Kiam Mota
 
-<img align="center" alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:somentekiam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<img align="center" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=KiamMota">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=KiamMota&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+      height="180"
+      alt="KiamMota GitHub Stats"
+    />
+  </a>
 
-<img align="center" alt="c" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=KiamMota">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=KiamMota&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+      height="180"
+      alt="KiamMota Top Languages"
+    />
+  </a>
+</p>
 
-<img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+Desenvolvedor backend interessado principalmente em engenharia de software, programação de sistemas e arquitetura de serviços.
 
-<img align="center" alt="dotnet" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+Meu foco está em construir software próximo da infraestrutura: APIs, protocolos, sistemas distribuídos, ferramentas de desenvolvimento e aplicações onde desempenho, simplicidade e controle sobre os recursos importam.
 
-<img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+## 🧩 O que eu faço
 
-<img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+* **Backend e APIs** — desenvolvimento de serviços, APIs e integrações.
+* **Programação de sistemas** — C e Rust para software de baixo nível e alto controle sobre recursos.
+* **Sistemas distribuídos** — comunicação entre processos, serviços e aplicações através de protocolos bem definidos.
+* **Ferramentas de desenvolvimento** — CLI tools, automação, sistemas de build e infraestrutura para projetos.
+* **Arquitetura de software** — desenho de sistemas desacoplados, simples de manter e evoluir.
 
-</div>
-Desenvolvedor Backend com foco em engenharia de software, programação de sistemas e arquitetura de APIs. Atuo no desenvolvimento de aplicações escaláveis, integrações entre serviços e modelagem de domínios de negócio, com experiência em ambientes Linux e tecnologias de baixo nível.
+## 🛠️ Tecnologias
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KiamMota&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KiamMota&layout=compact&theme=tokyonight)
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
-## Tecnologias
+### Protocolos e infraestrutura
 
-* Rust
-* Go
-* C / C#
-* ASP.NET Core
-* PostgreSQL
-* Linux
-* TCP/IP e HTTP
+`TCP/IP` · `HTTP` · `RPC` · `Sockets` · `MessagePack` · `REST` · `Linux`
 
-## Áreas de Atuação
+## 🚧 Projetos
 
-* Desenvolvimento de APIs e serviços backend com ASP.NET Core
-* Ferramentas e aplicações de baixo nível utilizando Rust e C
-* Integrações, automação de processos e comunicação distribuída entre serviços com Go
-* Modelagem de domínio e desenho de arquiteturas orientadas a serviços
-* Desenvolvimento de soluções com foco em desempenho, confiabilidade e manutenibilidade
+### Haze
 
-## Interesses Técnicos
+Uma DAW (Digital Audio Workstation) experimental construída em torno de uma arquitetura baseada em kernel.
 
-* Programação de sistemas
-* Redes e protocolos de comunicação
-* Arquitetura de software e design de APIs
-* Sistemas distribuídos
-* Otimização de desempenho e eficiência de recursos
+O núcleo gerencia áudio, estado e arquivos de projeto de forma independente, enquanto diferentes clientes podem se comunicar com ele através de RPC.
 
-## Objetivos Profissionais
+O objetivo é permitir interfaces diferentes — desktop, web, scripts ou outras ferramentas — sem acoplar a aplicação ao núcleo.
 
-* Aprofundar conhecimentos em sistemas distribuídos e arquitetura de larga escala
-* Contribuir para projetos open source nos ecossistemas Rust, Go e C
-* Projetar e construir sistemas backend robustos, escaláveis e sustentáveis a longo prazo
+### Outras ferramentas
 
-## Contato
+Também desenvolvo bibliotecas, ferramentas de CLI e infraestrutura para simplificar o desenvolvimento de aplicações e sistemas em C, Go e Rust.
 
-* LinkedIn: [...](https://www.linkedin.com/in/kiam-mota-3a1638356/)
-* E-mail: [...](somentekiam@gmail.com)
+## 🧠 Interesses
+
+Programação de sistemas, computação de baixo nível, redes, sistemas distribuídos, protocolos de comunicação, arquitetura de software, compiladores, ferramentas de desenvolvimento e otimização de recursos.
+
+## 📊 GitHub
+
+
+## 🎯 Atualmente
+
+Aprofundando conhecimentos em programação de sistemas, arquitetura de software e desenvolvimento de ferramentas que priorizam simplicidade, desempenho e portabilidade.
