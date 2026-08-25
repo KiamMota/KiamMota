@@ -18,6 +18,19 @@
   </a>
 </p>
 
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=KiamMota&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=KiamMota&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
 <br>
 
 <p align="center">
@@ -47,18 +60,7 @@ I'm also interested in open source and enjoy creating software that other develo
 
 ## GitHub
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=KiamMota&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=KiamMota&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+
 
 <br>
 
